@@ -2,11 +2,22 @@
   <tr>
     <td align="center" valign="middle">
       <img src="kali_logo.png" alt="Kali Logo" width="200px" />
+    </td>    
+    <td align="center" valign="middle">
+      <img src="tails_logo.png" alt="Tails Logo" width="200px" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.kali.org/get-kali/#kali-platforms">Enlace a Kali Linux</a>
+      <a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a>
+    </td>    
+    <td align="center">
+      <a href="https://tails.net/install/index.es.html">Tails Linux</a>
     </td>
   </tr>
 </table>
+
+
+![Alt text](tails_logo.jpg)
+
+https://tails.net/install/index.es.html
