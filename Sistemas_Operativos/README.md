@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="kali_logo.png" alt="Kali Logo" width="200px" />
+      <img src="kali_logo.png" alt="Kali logo" width="200px" />
     </td>    
     <td align="center" valign="middle">
       <img src="tails_logo.png" alt="tails Logo" width="200px" />
