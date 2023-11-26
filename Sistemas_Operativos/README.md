@@ -8,6 +8,9 @@
     </td>    
     <td align="center" valign="middle">
       <img src="parrot_logo.jpeg" alt="Parrot Logo" width="200px" />
+    </td>    
+    <td align="center" valign="middle">
+      <img src="wifislax_logo.jpeg" alt="Parrot Logo" width="200px" />
     </td>
   </tr>
   <tr>
@@ -19,6 +22,9 @@
     </td>    
     <td align="center">
       <a href="https://parrotsec.org/download/">Parrot Linux</a>
+    </td>   
+    <td align="center">
+      <a href="https://www.wifislax.com/category/download/">Parrot Linux</a>
     </td>
   </tr>
 </table>
