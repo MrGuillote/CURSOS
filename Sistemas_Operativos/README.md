@@ -16,8 +16,3 @@
     </td>
   </tr>
 </table>
-
-
-![Alt text](tails_logo.jpg)
-
-https://tails.net/install/index.es.html
