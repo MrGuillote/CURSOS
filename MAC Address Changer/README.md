@@ -1,10 +1,13 @@
 <b>Technitium MAC</b>
 
 Es un programa gratuito y de fácil instalación. Sólo es cuestión de realizar la descarga de forma directa o por Torrent, seguir unos pocos pasos y tendrás al programa ejecutándose. Más abajo, vemos un ejemplo de cómo el programa lista todas las interfaces de red, la dirección de MAC actual, su estatus de conexión y mucho más:
+
 ![image](https://github.com/MrGuillote/CURSOS/assets/89352244/6ac856dd-5130-46dd-9192-48cbadc511c5)
+
 Para cambiar la MAC de alguna de las interfaces, debes seleccionar alguna de ellas y dirígete al apartado «Change MAC Address» que se encuentra un poco más abajo. Allí, debes escribir la dirección que tú prefieras o bien, haz clic en el botón «Random MAC Address» para que el programa asigne de manera aleatoria una dirección para tu interfaz.
 
 En caso de que lo necesites, existe una opción que exporta que en formato .txt un reporte con los detalles de las interfaces. Así, puedes tenerlo en tu archivo o compartirlo con las personas que así lo necesitan. Debes ir a «File» (Archivo) > Export Text Report > Indica el nombre del archivo> Guardar
+
 ![image](https://github.com/MrGuillote/CURSOS/assets/89352244/e7b4975f-3c55-4983-a0ec-cc10eb3d2fae)
 
 
