@@ -3,18 +3,18 @@
 Guía para modificar la MAC en Windows
 Con unos simples pasos, es posible alterar la dirección MAC de todas las interfaces de red que deseemos. No necesitamos ser un hacker para hacerlo y ésta pequeña guía nos demuestra qué es muy sencillo alterar la MAC. A nivel de red doméstica, esto no representa un gran riesgo. Sin embargo, si estamos en un entorno corporativo, la situación es diferente. Si como administradores de red permitimos que cualquiera o bien, permitimos que personas no autorizadas puedan alterar ese dato, los riesgos son innumerables. A continuación, podéis ver cómo alterar la dirección MAC en Windows 10:
 
-<p>Entrar a <strong>Administrador de Dispositivos</strong>.</p>
-<p>Seleccionar el apartado de <strong>Adaptadores de Red</strong>.</p>
-<p>Escogemos la interfaz de red a la que queremos cambiar la dirección MAC.</p>
-<p>Hacemos clic derecho en lo escogido y seleccionamos la opción «<strong>Propiedades</strong>«.</p>
-<p>Pasamos a la pestaña «<strong>Opciones Avanzadas</strong>«, luego a la cajita de «<strong>Propiedad</strong>» y nos encontraremos con <strong>Direcciones Administradas Localmente</strong> o <strong>Locally Administered Address</strong></p>
-<p>Fíjate en el campo de texto (<strong>Valor</strong>) en donde se encuentra la dirección MAC y siéntete libre de borrarlo y cambiarlo</p>
-<p>Acto seguido, vuelve a introducir la dirección MAC de tu preferencia, respetando el formato y sin separadores/espacios.</p>
-<p>Reinicia el ordenador</p>
-<p>Vuelve a ejecutar el cmd</p>
-<p>Escribes «<strong>ipconfig/all</strong>» y listo: dirección MAC alterada.</p>
+Entrar a <strong>Administrador de Dispositivos</strong>.
+Seleccionar el apartado de <strong>Adaptadores de Red</strong>.
+Escogemos la interfaz de red a la que queremos cambiar la dirección MAC.
+Hacemos clic derecho en lo escogido y seleccionamos la opción «<strong>Propiedades</strong>«.
+Pasamos a la pestaña «<strong>Opciones Avanzadas</strong>«, luego a la cajita de «<strong>Propiedad</strong>» y nos encontraremos con <strong>Direcciones Administradas Localmente</strong> o <strong>Locally Administered Address</strong>
+Fíjate en el campo de texto (<strong>Valor</strong>) en donde se encuentra la dirección MAC y siéntete libre de borrarlo y cambiarlo
+Acto seguido, vuelve a introducir la dirección MAC de tu preferencia, respetando el formato y sin separadores/espacios.
+Reinicia el ordenador
+Vuelve a ejecutar el «<strong>cmd</strong>»
+Escribes «<strong>ipconfig/all</strong>» y listo: dirección MAC alterada.
 
-
+![image](https://github.com/MrGuillote/CURSOS/assets/89352244/630713b8-1ca7-46da-85d0-8c0b1e638958)
 
 Un detalle importante es que es posible que no aparezca este campo de «Locally Administered Address» en las propiedades de tu tarjeta de red, por lo que tendrás que recurrir a software externo para realizar este cambio. Algunos de los programas más recomendables son los siguientes:
 
