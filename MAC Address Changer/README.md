@@ -8,7 +8,7 @@ Para cambiar la MAC de alguna de las interfaces, debes seleccionar alguna de ell
 En caso de que lo necesites, existe una opción que exporta que en formato .txt un reporte con los detalles de las interfaces. Así, puedes tenerlo en tu archivo o compartirlo con las personas que así lo necesitan. Debes ir a «File» (Archivo) > Export Text Report > Indica el nombre del archivo> Guardar
 
 
-<b>SMAC</b>
+<b>SMAC</b><br>
 Es otro programa con licencia gratuita que te permite modificar con facilidad la dirección MAC de todos tus adaptadores. Tienes la opción de desplegar solamente los adaptadores activos o bien, de desplegar la lista completa en donde se verifican tanto los activos como inactivos. ¿Cómo cambias la dirección? Simplemente escoge la que deseas e indica en el campo «New Spoofed MAC Address».
 
 Por otro lado, desde este programa puedes controlar cada una de las interfaces realizando acciones como reiniciarlas, refrescar su estado actual, generar un número aleatorio de dirección MAC si no queremos indicar uno, entre otras.
